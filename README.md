@@ -16,7 +16,6 @@ Checked for Windows Update for VM - let the updates continue.
 <br />
 <p>
 <img width="947" height="563" alt="working on updates" src="https://github.com/user-attachments/assets/657026e6-8a13-46cd-8492-2e48fc861775" />
->
 </p>
 <p> Windows updating pending completion.
 </p>
