@@ -8,18 +8,16 @@ systems secure, stable, and running efficiently.<br />
 - Windows 11
 <h2>Checking for Updates</h2>
 <p>
-<img width="913" height="291" alt="image"
-src="https://github.com/user-attachments/assets/cb12b0bc-d953-49c1-be46-cf30c761e71c" />
+<img width="941" height="557" alt="Updates ava" src="https://github.com/user-attachments/assets/c5394a63-21f6-4840-9839-d0f9fcc031ab" />
 </p>
 <p>
 Checked for Windows Update for VM - let the updates continue.
 </p>
 <br />
 <p>
-<img width="921" height="385" alt="image"
-src="https://github.com/user-attachments/assets/2ed11d85-c664-4c8a-b37b-acbf45c44099" />
+<img width="947" height="563" alt="working on updates" src="https://github.com/user-attachments/assets/657026e6-8a13-46cd-8492-2e48fc861775" />
+>
 </p>
-<p>
-After Windows was updated and completed.
+<p> Windows updating pending completion.
 </p>
 <br />
